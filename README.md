@@ -1,7 +1,11 @@
+# Requirement 
+python_version = "3.8"
+
 # enviroment setup
 create a enviroment using `pipenv shell` 
 
 and execute the below command to install enviroment libraries `pipenv install`
+
 
 
 # Create a Database 
